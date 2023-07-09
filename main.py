@@ -25,10 +25,10 @@ if __name__ ==  "__main__":
     #                        f"dm - DMetry\n"
     #                        f"mm - MMetry\n"
     #                        f"myli - MMyli\n"
-    #                        f"Please choice: ")
+    #
     # vidstan_value = int(input(f"Please input vidstan value:  "))
     #
-    # # conditional temp
+    #
     # if system_metrics.lower() == "m":
     #     print(f"INPUT VALUE: {vidstan_value} M\n\n")
     #     print(f"DMetry: {round(vidstan_value / 10, 2)}")                # конвертація метрів в дециметри
